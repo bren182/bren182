@@ -1,4 +1,4 @@
-![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20bren182%20👋&fontSize=40&fontAlignY=35)
+![Banner](https://capsule-render.vercel.app/api?type=wave&color=auto&height=200&section=header&text=Hi%20there,%20I'm%20Brendan%20👋&fontSize=40&fontAlignY=35)
 
 I'm a passionate **Software Developer** with a love for building robust, scalable solutions and exploring new technologies.
 
