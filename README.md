@@ -11,8 +11,8 @@ I'm a passionate **Software Developer** with a love for building robust, scalabl
 - **Featured Project:** [Papier](https://papier.mylgs.co.za)
 
 ## 🎮 Hobbies & Fun Facts
-- 🎸 I love playing music
-- 🕹️ Avid gamer—video games, board games, and card games are my jam!
+- 🎸 I love making music (check out my [youtube](https://www.youtube.com/@bren182)!)
+- 🕹️ All the games!
 
 ## 📊 GitHub Stats
 ![bren182's GitHub stats](https://github-readme-stats.vercel.app/api?username=bren182&show_icons=true&theme=tokyonight)
