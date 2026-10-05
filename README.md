@@ -8,7 +8,7 @@ I'm a passionate **Software Developer** with a love for building robust, scalabl
 
 ## 🌐 Portfolio & Projects
 - **Portfolio:** [mylgs.co.za](https://mylgs.co.za)
-- **Featured Project:** [Movie Database API Sample](http://142.93.189.176:3000/)
+- **Featured Project:** [Papier](https://papier.mylgs.co.za)
 
 ## 🎮 Hobbies & Fun Facts
 - 🎸 I love playing music
@@ -22,6 +22,7 @@ I'm a passionate **Software Developer** with a love for building robust, scalabl
 - [Portfolio Website](https://mylgs.co.za)
 - [LinkedIn](https://www.linkedin.com/in/bren182)
 - [On The Prowl (demo)](https://game.mylgs.co.za)
+- [Papier](https://papier.mylgs.co.za)
 
 ---
 
